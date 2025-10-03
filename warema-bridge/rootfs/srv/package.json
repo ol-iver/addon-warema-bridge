@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "mqtt": "^5.10.3",
+        "mqtt": "^5.14.1",
         "serialport": "^13.0.0",
         "@serialport/parser-delimiter": "^13.0.0"
     }
